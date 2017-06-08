@@ -73,11 +73,11 @@
     "category": "Website",
     "date": "2015-05-01",
     "rgb": "42,99,154",
-    "url": "andybeck",
+    "url": "andrewbeck",
     "title": "Painting Gallery",
     "text": "My very own artwork portfolio site built in AngularJS with a customised Angular Material framework.",
     "details": "AngularJS, jQuery, JavaScript, HTML, SCSS, CSS, Blogger API",
-    "link": "http://www.andybeck.co.uk"
+    "link": "http://www.andrewbeck.ca"
   },
   {
     "category": "App",
